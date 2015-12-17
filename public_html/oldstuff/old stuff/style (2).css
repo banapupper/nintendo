@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Calligraffiti);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body { 
+    background-image: url('pics/background_green.png');
+    background-attachment: fixed;
+	font-family: Pacifico;}
+.Calligraffitti{
+	font-family: Calligrafifitti;
+}
+.libre baskerville{
+	font-family: Libre Baskerville;
+}
+.lobster{
+	font-family: lobster;
+}
+a:hover { 
+    background-color: #cccccc;
+}
+	
+	

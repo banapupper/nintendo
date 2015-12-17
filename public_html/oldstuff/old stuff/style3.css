@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Calligraffiti);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+
+body { 
+	background:  linear-gradient(to right, rgba(252,236,252,1) 0%, rgba(253,137,215,1) 63%, rgba(255,124,216,1) 100%);
+	background-attachment: "fixed"
+
+}
+.Calligraffitti{
+	font-family: Calligrafifitti;
+}
+.lobster{
+	font-family: lobster;
+}
+.comfortaa{
+		font-family: comfortaa;
+}
+.satisfy{
+		font-family: satisfy;
+}
+.chewy{
+		font-family: chewy;
+}
+
+img {
+	box-shadow: 10px 10px 5px #00E6E6;
+	border: 2px solid black;
+}
+
+a:link {
+	color: #CC99FF
+}
+ 
+a:hover { 
+    background-color: #cccccc;
+}
+
